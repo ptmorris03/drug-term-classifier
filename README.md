@@ -27,7 +27,7 @@ drug_terms = output.ents
 
 print(drug_terms)
 for drug_term in drug_terms:
-    print(str(drug_term), drug_term.start, drug_term.end)
+    print(str(drug_term), drug_term.start_char, drug_term.end_char)
 ```
 ```
 (4-FMA, 6-APB, 6-APB)

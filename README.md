@@ -2,6 +2,8 @@
 
 ![](https://github.com/ptmorris03/drug-term-classifier/blob/main/drug_terms.png?raw=true)
 
+[[Colab]](https://colab.research.google.com/drive/1Qe-If_tSHnXZHig24fJGkp6iksOGlJeM?usp=sharing)
+
 A Named Entity Recognition (NER) classifier trained to detect novel terms referring to a drug, based on context. The classifier was trained on ~8,000 hand-labeled drug subreddit comments using a Transformer neural network in the [SpaCy](https://spacy.io/) Python library.
 
 # Install

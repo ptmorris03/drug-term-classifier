@@ -31,7 +31,7 @@ for drug_term in drug_terms:
 ```
 ```
 (4-FMA, 6-APB, 6-APB)
-4-FMA 14 17
-6-APB 30 33
-6-APB 43 46
+4-FMA 58 63
+6-APB 113 118
+6-APB 162 167
 ```
